@@ -1,0 +1,31 @@
+html>
+		<head>
+				<title>Hello World</title>
+		</head>
+
+		<body>
+				<h1>Hello World. </h1>
+				<p>My first time practicing coding. <br/>I hope you like it.</p>
+				<hr/>
+				<p> Lincoln Park is a very interesting music band. </p>
+				<img src="c:\users\9rash\pictures\linkinpark.bmp" width="700px"/>
+
+				<a href="https://en.wikipedia.org/wiki/Linkin_Park"> Click here! </a>
+
+				<h2>Members of the band. </h2>
+				<ul>
+						<li>1.Mike Shinoda</li>
+						<li>2.Brad Delson</li>
+						<li>3.Rob Bourdon</LI>
+						<li>4.Joe Hahn</li>
+						<li>5.Dave Farrell</li>
+
+
+				</ul>
+
+				<a href="https://www.linkinpark.com/meteora20"
+
+
+		</body>
+
+</html>
